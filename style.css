@@ -39,10 +39,15 @@ main{
     display: flex;
     flex-wrap: wrap;
     gap: 20px 10px;
-    text-align: center;
     justify-content: center;
     align-items: center;
     padding: 20px;;
+}
+
+#showcase_text{
+    text-align: center;
+    align-items: center;
+    color: rgb(255, 174, 0);
 }
 
 #movie_sonic{
@@ -88,7 +93,6 @@ main{
     text-align: center;
     justify-content: center;
     align-items: center;
-
     padding: 6px;
 }
 
