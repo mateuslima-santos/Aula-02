@@ -121,6 +121,10 @@ main{
     object-position: bottom;
 }
 
+#crossworlds{
+    object-position: right;
+}
+
 #copyright{
     display: flex;
     justify-content: center;
